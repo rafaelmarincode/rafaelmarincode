@@ -14,7 +14,7 @@ My focus is on understanding how AI behaves in real-world use cases and how thes
 - AI-assisted productivity systems
 - Git-based collaboration for AI projects
 
-## AI Engineering Journey
+## AI Systems Development
 
 I am currently building hands-on experience in:
 

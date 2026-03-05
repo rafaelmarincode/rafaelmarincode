@@ -2,6 +2,13 @@
 
 AI Operations | Responsible AI | AI Workflow Optimization | LLM Evaluation
 
+![Python](https://img.shields.io/badge/Python-AI%20Tools-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![LLM Evaluation](https://img.shields.io/badge/LLM-Evaluation-green)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
+![AI Workflow](https://img.shields.io/badge/AI-Workflow%20Optimization-red)
+![Responsible AI](https://img.shields.io/badge/Responsible-AI-yellow)
+
 I work on evaluating AI systems, analyzing LLM outputs, and improving AI-assisted workflows in operational environments.
 
 My focus is on understanding how AI behaves in real-world use cases and how these systems can be applied responsibly and effectively in decision-making processes.
